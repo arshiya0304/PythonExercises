@@ -16,3 +16,4 @@ plt.xlabel("Product Category")
 plt.ylabel("Total Sales")
 plt.title("Total Sales Per Category")
 plt.show()
+
